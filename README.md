@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0004-median-of-two-sorted-arrays) |
+| [0027-remove-element](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0027-remove-element) |
 | [0169-majority-element](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0169-majority-element) |
 ## Hash Table
 |  |
@@ -51,6 +52,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0005-longest-palindromic-substring) |
+| [0027-remove-element](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0027-remove-element) |
 ## Dynamic Programming
 |  |
 | ------- |
