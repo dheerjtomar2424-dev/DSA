@@ -23,25 +23,54 @@
 //         }
 //       return true; 
 
+// class Solution {
+// public:
+//     bool isPalindrome(string s) {
+
+//         for (int i=0;i<s.size();i++){
+//             if (!(isalnum(s[i]))){
+//                 s.erase(s.begin() + i);
+//                 i--;
+//             }    
+//         }
+
+//         for (int i=0;i<s.size();i++){
+//             if (tolower(s[i]) != tolower(s[s.size()-i-1])){
+//                 return false;
+//             }
+        
+//         }
+
+
+//       return true;
+//     }
+// };
+
 class Solution {
 public:
     bool isPalindrome(string s) {
 
-        for (int i=0;i<s.size();i++){
-            if (!(isalnum(s[i]))){
-                s.erase(s.begin() + i);
-                i--;
-            }    
-        }
+        int left = 0;
+        int right = s.size() - 1;
 
-        for (int i=0;i<s.size();i++){
-            if (tolower(s[i]) != tolower(s[s.size()-i-1])){
+        while (left < right) {
+
+            while (left < right && !isalnum(s[left])) {
+                left++;
+            }
+
+            while (left < right && !isalnum(s[right])) {
+                right--;
+            }
+
+            if (tolower(s[left]) != tolower(s[right])) {
                 return false;
             }
-        
+
+            left++;
+            right--;
         }
 
-
-      return true;
+        return true;
     }
 };
