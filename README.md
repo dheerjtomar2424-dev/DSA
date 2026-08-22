@@ -21,6 +21,7 @@
 | [0001-two-sum](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0169-majority-element](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0169-majority-element) |
+| [0205-isomorphic-strings](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/dheerjtomar2424-dev/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -48,6 +49,7 @@
 | [0006-zigzag-conversion](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0008-string-to-integer-atoi) |
 | [0125-valid-palindrome](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0125-valid-palindrome) |
+| [0205-isomorphic-strings](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0387-first-unique-character-in-a-string) |
