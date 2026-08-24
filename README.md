@@ -17,6 +17,7 @@
 | [0217-contains-duplicate](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0283-move-zeroes) |
+| [0347-top-k-frequent-elements](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0977-squares-of-a-sorted-array) |
@@ -37,6 +38,7 @@
 | [0217-contains-duplicate](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0387-first-unique-character-in-a-string) |
@@ -90,6 +92,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0169-majority-element](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0347-top-k-frequent-elements) |
 ## Two Pointers
 |  |
 | ------- |
@@ -118,6 +121,7 @@
 | [0169-majority-element](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0977-squares-of-a-sorted-array) |
@@ -126,6 +130,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [1512-number-of-good-pairs](https://github.com/dheerjtomar2424-dev/DSA/tree/master/1512-number-of-good-pairs) |
 ## Boyer–Moore Majority Vote Algorithm
@@ -172,4 +177,16 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0011-container-with-most-water) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
