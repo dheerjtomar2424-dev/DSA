@@ -58,6 +58,7 @@
 | [0002-add-two-numbers](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0009-palindrome-number) |
+| [0069-sqrtx](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0069-sqrtx) |
 | [1512-number-of-good-pairs](https://github.com/dheerjtomar2424-dev/DSA/tree/master/1512-number-of-good-pairs) |
 ## Recursion
 |  |
@@ -91,6 +92,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0278-first-bad-version](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0278-first-bad-version) |
 | [0349-intersection-of-two-arrays](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0349-intersection-of-two-arrays) |
@@ -202,4 +204,8 @@
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0278-first-bad-version) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
