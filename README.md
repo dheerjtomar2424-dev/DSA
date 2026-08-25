@@ -20,6 +20,7 @@
 | [0347-top-k-frequent-elements](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0704-binary-search](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0704-binary-search) |
 | [0977-squares-of-a-sorted-array](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/dheerjtomar2424-dev/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/dheerjtomar2424-dev/DSA/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -87,6 +88,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0349-intersection-of-two-arrays](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0704-binary-search](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0704-binary-search) |
 ## Divide and Conquer
 |  |
 | ------- |
