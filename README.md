@@ -62,6 +62,7 @@
 | [0021-merge-two-sorted-lists](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0021-merge-two-sorted-lists) |
 | [0023-merge-k-sorted-lists](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0023-merge-k-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0024-swap-nodes-in-pairs) |
+| [0025-reverse-nodes-in-k-group](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0025-reverse-nodes-in-k-group) |
 ## Math
 |  |
 | ------- |
@@ -79,6 +80,7 @@
 | [0010-regular-expression-matching](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0010-regular-expression-matching) |
 | [0021-merge-two-sorted-lists](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0024-swap-nodes-in-pairs) |
+| [0025-reverse-nodes-in-k-group](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0025-reverse-nodes-in-k-group) |
 ## String
 |  |
 | ------- |
