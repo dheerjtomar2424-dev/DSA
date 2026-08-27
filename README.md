@@ -13,6 +13,7 @@
 | [0018-4sum](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0027-remove-element) |
+| [0031-next-permutation](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0035-search-insert-position) |
@@ -144,6 +145,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0031-next-permutation](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0031-next-permutation) |
 | [0125-valid-palindrome](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0283-move-zeroes) |
