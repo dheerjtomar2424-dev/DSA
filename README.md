@@ -71,6 +71,7 @@
 | [0009-palindrome-number](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0013-roman-to-integer) |
+| [0029-divide-two-integers](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0029-divide-two-integers) |
 | [0069-sqrtx](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0069-sqrtx) |
 | [1512-number-of-good-pairs](https://github.com/dheerjtomar2424-dev/DSA/tree/master/1512-number-of-good-pairs) |
 ## Recursion
@@ -264,4 +265,8 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0023-merge-k-sorted-lists) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0029-divide-two-integers](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0029-divide-two-integers) |
 <!---LeetCode Topics End-->
