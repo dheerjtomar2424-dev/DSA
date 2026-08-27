@@ -100,6 +100,7 @@
 | [0022-generate-parentheses](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0032-longest-valid-parentheses](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0049-group-anagrams) |
 | [0097-interleaving-string](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0097-interleaving-string) |
 | [0125-valid-palindrome](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0125-valid-palindrome) |
@@ -159,6 +160,7 @@
 | [0005-longest-palindromic-substring](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0097-interleaving-string](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0097-interleaving-string) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Sorting
@@ -257,11 +259,13 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0032-longest-valid-parentheses) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0032-longest-valid-parentheses) |
 ## Merge Sort
 |  |
 | ------- |
