@@ -38,6 +38,7 @@
 | [0063-unique-paths-ii](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0066-plus-one) |
+| [0068-text-justification](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0068-text-justification) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0169-majority-element) |
@@ -142,6 +143,7 @@
 | [0058-length-of-last-word](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0058-length-of-last-word) |
 | [0065-valid-number](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0065-valid-number) |
 | [0067-add-binary](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0067-add-binary) |
+| [0068-text-justification](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0068-text-justification) |
 | [0097-interleaving-string](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0097-interleaving-string) |
 | [0125-valid-palindrome](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0205-isomorphic-strings) |
@@ -249,6 +251,7 @@
 | [0054-spiral-matrix](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0059-spiral-matrix-ii) |
 | [0067-add-binary](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0067-add-binary) |
+| [0068-text-justification](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0068-text-justification) |
 | [1920-build-array-from-permutation](https://github.com/dheerjtomar2424-dev/DSA/tree/master/1920-build-array-from-permutation) |
 ## Matrix
 |  |
