@@ -31,6 +31,7 @@
 | [0051-n-queens](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0169-majority-element) |
@@ -191,6 +192,7 @@
 | [0044-wildcard-matching](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0055-jump-game) |
 | [0097-interleaving-string](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0097-interleaving-string) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Sorting
@@ -268,6 +270,7 @@
 | [0011-container-with-most-water](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0011-container-with-most-water) |
 | [0044-wildcard-matching](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0045-jump-game-ii) |
+| [0055-jump-game](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0055-jump-game) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
