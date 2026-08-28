@@ -37,6 +37,7 @@
 | [0059-spiral-matrix-ii](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0064-minimum-path-sum) |
+| [0066-plus-one](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0169-majority-element) |
@@ -102,6 +103,7 @@
 | [0050-powx-n](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0060-permutation-sequence) |
 | [0062-unique-paths](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0062-unique-paths) |
+| [0066-plus-one](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0069-sqrtx) |
 | [1512-number-of-good-pairs](https://github.com/dheerjtomar2424-dev/DSA/tree/master/1512-number-of-good-pairs) |
 ## Recursion
