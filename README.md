@@ -99,6 +99,7 @@
 | [0048-rotate-image](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0060-permutation-sequence) |
+| [0062-unique-paths](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0062-unique-paths) |
 | [0069-sqrtx](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0069-sqrtx) |
 | [1512-number-of-good-pairs](https://github.com/dheerjtomar2424-dev/DSA/tree/master/1512-number-of-good-pairs) |
 ## Recursion
@@ -201,6 +202,7 @@
 | [0045-jump-game-ii](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0062-unique-paths) |
 | [0097-interleaving-string](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0097-interleaving-string) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Sorting
@@ -357,4 +359,8 @@
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0056-merge-intervals) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
