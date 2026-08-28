@@ -32,6 +32,7 @@
 | [0053-maximum-subarray](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0055-jump-game) |
+| [0056-merge-intervals](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0056-merge-intervals) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0169-majority-element) |
@@ -203,6 +204,7 @@
 | [0018-4sum](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0018-4sum) |
 | [0047-permutations-ii](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0056-merge-intervals) |
 | [0169-majority-element](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0242-valid-anagram) |
@@ -342,4 +344,8 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0042-trapping-rain-water) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
