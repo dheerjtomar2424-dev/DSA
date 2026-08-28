@@ -18,6 +18,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0049-group-anagrams) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -46,6 +47,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0036-valid-sudoku](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0205-isomorphic-strings) |
@@ -199,6 +201,7 @@
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0037-sudoku-solver) |
 | [1672-richest-customer-wealth](https://github.com/dheerjtomar2424-dev/DSA/tree/master/1672-richest-customer-wealth) |
 ## Counting Sort
 |  |
@@ -258,6 +261,7 @@
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0022-generate-parentheses) |
+| [0037-sudoku-solver](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0037-sudoku-solver) |
 ## Stack
 |  |
 | ------- |
@@ -281,4 +285,12 @@
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0029-divide-two-integers) |
+## Algorithm X
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0037-sudoku-solver) |
+## Dancing Links
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
