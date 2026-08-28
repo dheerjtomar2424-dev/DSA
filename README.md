@@ -85,6 +85,7 @@
 | [0023-merge-k-sorted-lists](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0023-merge-k-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0025-reverse-nodes-in-k-group) |
+| [0061-rotate-list](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0061-rotate-list) |
 ## Math
 |  |
 | ------- |
@@ -180,6 +181,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0042-trapping-rain-water) |
+| [0061-rotate-list](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0061-rotate-list) |
 | [0125-valid-palindrome](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0283-move-zeroes) |
