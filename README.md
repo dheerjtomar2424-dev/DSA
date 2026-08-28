@@ -28,6 +28,7 @@
 | [0047-permutations-ii](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0049-group-anagrams) |
+| [0051-n-queens](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0051-n-queens) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0169-majority-element) |
@@ -292,6 +293,7 @@
 | [0040-combination-sum-ii](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0047-permutations-ii) |
+| [0051-n-queens](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0051-n-queens) |
 ## Stack
 |  |
 | ------- |
@@ -320,6 +322,7 @@
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0037-sudoku-solver) |
+| [0051-n-queens](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0051-n-queens) |
 ## Dancing Links
 |  |
 | ------- |
