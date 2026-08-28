@@ -107,6 +107,7 @@
 | [0066-plus-one](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0070-climbing-stairs) |
 | [1512-number-of-good-pairs](https://github.com/dheerjtomar2424-dev/DSA/tree/master/1512-number-of-good-pairs) |
 ## Recursion
 |  |
@@ -214,6 +215,7 @@
 | [0062-unique-paths](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0064-minimum-path-sum) |
+| [0070-climbing-stairs](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0070-climbing-stairs) |
 | [0097-interleaving-string](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0097-interleaving-string) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Sorting
@@ -379,4 +381,8 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0062-unique-paths) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
