@@ -23,6 +23,7 @@
 | [0040-combination-sum-ii](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0040-combination-sum-ii) |
 | [0041-first-missing-positive](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0045-jump-game-ii) |
 | [0049-group-anagrams](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0049-group-anagrams) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -178,6 +179,7 @@
 | [0032-longest-valid-parentheses](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0044-wildcard-matching) |
+| [0045-jump-game-ii](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0045-jump-game-ii) |
 | [0097-interleaving-string](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0097-interleaving-string) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Sorting
@@ -250,6 +252,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0011-container-with-most-water) |
 | [0044-wildcard-matching](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0044-wildcard-matching) |
+| [0045-jump-game-ii](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0045-jump-game-ii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
