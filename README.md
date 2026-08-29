@@ -42,6 +42,7 @@
 | [0073-set-matrix-zeroes](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0078-subsets) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0169-majority-element) |
@@ -350,6 +351,7 @@
 | [0051-n-queens](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0052-n-queens-ii) |
 | [0077-combinations](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0077-combinations) |
+| [0078-subsets](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0078-subsets) |
 ## Stack
 |  |
 | ------- |
@@ -376,6 +378,7 @@
 | ------- |
 | [0029-divide-two-integers](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0067-add-binary) |
+| [0078-subsets](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0078-subsets) |
 ## Algorithm X
 |  |
 | ------- |
