@@ -43,6 +43,7 @@
 | [0074-search-a-2d-matrix](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0079-word-search) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0169-majority-element) |
@@ -154,6 +155,7 @@
 | [0071-simplify-path](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0076-minimum-window-substring) |
+| [0079-word-search](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0079-word-search) |
 | [0097-interleaving-string](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0097-interleaving-string) |
 | [0125-valid-palindrome](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0205-isomorphic-strings) |
@@ -281,6 +283,7 @@
 | [0064-minimum-path-sum](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0079-word-search) |
 | [1672-richest-customer-wealth](https://github.com/dheerjtomar2424-dev/DSA/tree/master/1672-richest-customer-wealth) |
 ## Counting Sort
 |  |
@@ -352,6 +355,7 @@
 | [0052-n-queens-ii](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0052-n-queens-ii) |
 | [0077-combinations](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0079-word-search) |
 ## Stack
 |  |
 | ------- |
@@ -410,4 +414,8 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0075-sort-colors) |
+## Depth-First Search
+|  |
+| ------- |
+| [0079-word-search](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
