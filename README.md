@@ -47,6 +47,7 @@
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0085-maximal-rectangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0169-majority-element) |
@@ -239,6 +240,7 @@
 | [0064-minimum-path-sum](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0072-edit-distance) |
+| [0085-maximal-rectangle](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0085-maximal-rectangle) |
 | [0097-interleaving-string](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0097-interleaving-string) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Sorting
@@ -292,6 +294,7 @@
 | [0073-set-matrix-zeroes](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0079-word-search) |
+| [0085-maximal-rectangle](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0085-maximal-rectangle) |
 | [1672-richest-customer-wealth](https://github.com/dheerjtomar2424-dev/DSA/tree/master/1672-richest-customer-wealth) |
 ## Counting Sort
 |  |
@@ -372,6 +375,7 @@
 | [0042-trapping-rain-water](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0042-trapping-rain-water) |
 | [0071-simplify-path](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0071-simplify-path) |
 | [0084-largest-rectangle-in-histogram](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0085-maximal-rectangle) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -407,6 +411,7 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0085-maximal-rectangle) |
 ## Quicksort
 |  |
 | ------- |
