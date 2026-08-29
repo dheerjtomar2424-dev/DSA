@@ -39,6 +39,7 @@
 | [0064-minimum-path-sum](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0066-plus-one) |
 | [0068-text-justification](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0068-text-justification) |
+| [0073-set-matrix-zeroes](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0169-majority-element) |
@@ -69,6 +70,7 @@
 | [0037-sudoku-solver](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0049-group-anagrams) |
+| [0073-set-matrix-zeroes](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0217-contains-duplicate) |
@@ -268,6 +270,7 @@
 | [0059-spiral-matrix-ii](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0064-minimum-path-sum) |
+| [0073-set-matrix-zeroes](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0073-set-matrix-zeroes) |
 | [1672-richest-customer-wealth](https://github.com/dheerjtomar2424-dev/DSA/tree/master/1672-richest-customer-wealth) |
 ## Counting Sort
 |  |
