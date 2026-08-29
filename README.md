@@ -40,6 +40,7 @@
 | [0066-plus-one](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0066-plus-one) |
 | [0068-text-justification](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0068-text-justification) |
 | [0073-set-matrix-zeroes](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0169-majority-element) |
@@ -169,6 +170,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0069-sqrtx) |
+| [0074-search-a-2d-matrix](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0278-first-bad-version](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0278-first-bad-version) |
 | [0349-intersection-of-two-arrays](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0349-intersection-of-two-arrays) |
@@ -271,6 +273,7 @@
 | [0063-unique-paths-ii](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0074-search-a-2d-matrix) |
 | [1672-richest-customer-wealth](https://github.com/dheerjtomar2424-dev/DSA/tree/master/1672-richest-customer-wealth) |
 ## Counting Sort
 |  |
