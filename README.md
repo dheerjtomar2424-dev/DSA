@@ -73,6 +73,7 @@
 | [0041-first-missing-positive](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0073-set-matrix-zeroes) |
+| [0076-minimum-window-substring](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0076-minimum-window-substring) |
 | [0169-majority-element](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0217-contains-duplicate) |
@@ -151,6 +152,7 @@
 | [0068-text-justification](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0068-text-justification) |
 | [0071-simplify-path](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0072-edit-distance) |
+| [0076-minimum-window-substring](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0076-minimum-window-substring) |
 | [0097-interleaving-string](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0097-interleaving-string) |
 | [0125-valid-palindrome](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0205-isomorphic-strings) |
@@ -162,6 +164,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0076-minimum-window-substring](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0076-minimum-window-substring) |
 | [0219-contains-duplicate-ii](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0219-contains-duplicate-ii) |
 ## Binary Search
 |  |
