@@ -163,6 +163,7 @@
 | [0072-edit-distance](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0079-word-search) |
+| [0087-scramble-string](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0087-scramble-string) |
 | [0097-interleaving-string](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0097-interleaving-string) |
 | [0125-valid-palindrome](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0205-isomorphic-strings) |
@@ -243,6 +244,7 @@
 | [0070-climbing-stairs](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0072-edit-distance) |
 | [0085-maximal-rectangle](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0085-maximal-rectangle) |
+| [0087-scramble-string](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0087-scramble-string) |
 | [0097-interleaving-string](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0097-interleaving-string) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Sorting
