@@ -53,6 +53,7 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0118-pascals-triangle](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0169-majority-element) |
@@ -268,6 +269,7 @@
 | [0091-decode-ways](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0091-decode-ways) |
 | [0097-interleaving-string](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0097-interleaving-string) |
 | [0115-distinct-subsequences](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0115-distinct-subsequences) |
+| [0118-pascals-triangle](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Sorting
 |  |
