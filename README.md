@@ -177,6 +177,7 @@
 | [0087-scramble-string](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0087-scramble-string) |
 | [0091-decode-ways](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0091-decode-ways) |
 | [0097-interleaving-string](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0097-interleaving-string) |
+| [0115-distinct-subsequences](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0242-valid-anagram) |
@@ -264,6 +265,7 @@
 | [0087-scramble-string](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0087-scramble-string) |
 | [0091-decode-ways](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0091-decode-ways) |
 | [0097-interleaving-string](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0097-interleaving-string) |
+| [0115-distinct-subsequences](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0115-distinct-subsequences) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Sorting
 |  |
