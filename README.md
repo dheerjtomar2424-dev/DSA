@@ -62,6 +62,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0130-surrounded-regions) |
 | [0134-gas-station](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0134-gas-station) |
+| [0135-candy](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0135-candy) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0217-contains-duplicate) |
@@ -384,6 +385,7 @@
 | [0055-jump-game](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0134-gas-station) |
+| [0135-candy](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0135-candy) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
