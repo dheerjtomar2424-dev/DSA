@@ -93,6 +93,7 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0126-word-ladder-ii](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0126-word-ladder-ii) |
+| [0127-word-ladder](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0127-word-ladder) |
 | [0169-majority-element](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0217-contains-duplicate) |
@@ -188,6 +189,7 @@
 | [0115-distinct-subsequences](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0125-valid-palindrome) |
 | [0126-word-ladder-ii](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0126-word-ladder-ii) |
+| [0127-word-ladder](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0127-word-ladder) |
 | [0205-isomorphic-strings](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0344-reverse-string) |
@@ -557,8 +559,10 @@
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0126-word-ladder-ii](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0126-word-ladder-ii) |
+| [0127-word-ladder](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0127-word-ladder) |
 ## Bidirectional Search
 |  |
 | ------- |
 | [0126-word-ladder-ii](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0126-word-ladder-ii) |
+| [0127-word-ladder](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0127-word-ladder) |
 <!---LeetCode Topics End-->
