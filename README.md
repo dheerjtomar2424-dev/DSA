@@ -194,6 +194,7 @@
 | [0126-word-ladder-ii](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0127-word-ladder) |
 | [0131-palindrome-partitioning](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0131-palindrome-partitioning) |
+| [0132-palindrome-partitioning-ii](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0132-palindrome-partitioning-ii) |
 | [0205-isomorphic-strings](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0344-reverse-string) |
@@ -288,6 +289,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0131-palindrome-partitioning](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0131-palindrome-partitioning) |
+| [0132-palindrome-partitioning-ii](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0132-palindrome-partitioning-ii) |
 ## Sorting
 |  |
 | ------- |
