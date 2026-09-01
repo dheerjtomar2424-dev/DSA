@@ -60,6 +60,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0128-longest-consecutive-sequence](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0128-longest-consecutive-sequence) |
+| [0130-surrounded-regions](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0130-surrounded-regions) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0217-contains-duplicate) |
@@ -338,6 +339,7 @@
 | [0074-search-a-2d-matrix](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0085-maximal-rectangle) |
+| [0130-surrounded-regions](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0130-surrounded-regions) |
 | [1672-richest-customer-wealth](https://github.com/dheerjtomar2424-dev/DSA/tree/master/1672-richest-customer-wealth) |
 ## Counting Sort
 |  |
@@ -496,6 +498,7 @@
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0130-surrounded-regions](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0130-surrounded-regions) |
 ## Range Minimum/Maximum Query
 |  |
 | ------- |
@@ -565,6 +568,7 @@
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0126-word-ladder-ii](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0127-word-ladder) |
+| [0130-surrounded-regions](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0130-surrounded-regions) |
 ## Bidirectional Search
 |  |
 | ------- |
@@ -574,4 +578,5 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0128-longest-consecutive-sequence) |
+| [0130-surrounded-regions](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0130-surrounded-regions) |
 <!---LeetCode Topics End-->
