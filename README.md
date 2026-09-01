@@ -65,6 +65,7 @@
 | [0135-candy](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0137-single-number-ii) |
+| [0139-word-break](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0139-word-break) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0217-contains-duplicate) |
@@ -103,6 +104,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0133-clone-graph) |
 | [0138-copy-list-with-random-pointer](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0138-copy-list-with-random-pointer) |
+| [0139-word-break](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0139-word-break) |
 | [0169-majority-element](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0217-contains-duplicate) |
@@ -202,6 +204,7 @@
 | [0127-word-ladder](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0127-word-ladder) |
 | [0131-palindrome-partitioning](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0132-palindrome-partitioning-ii) |
+| [0139-word-break](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0139-word-break) |
 | [0205-isomorphic-strings](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0344-reverse-string) |
@@ -297,6 +300,7 @@
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0131-palindrome-partitioning](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0132-palindrome-partitioning-ii) |
+| [0139-word-break](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0139-word-break) |
 ## Sorting
 |  |
 | ------- |
@@ -364,6 +368,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0014-longest-common-prefix) |
+| [0139-word-break](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0139-word-break) |
 ## String Matching
 |  |
 | ------- |
@@ -494,6 +499,7 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0139-word-break) |
 ## Bubble Sort
 |  |
 | ------- |
@@ -601,4 +607,8 @@
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0133-clone-graph) |
+## Brute-Force Search
+|  |
+| ------- |
+| [0139-word-break](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
