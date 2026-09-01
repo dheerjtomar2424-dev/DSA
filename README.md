@@ -59,6 +59,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0128-longest-consecutive-sequence](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0217-contains-duplicate) |
@@ -94,6 +95,7 @@
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0126-word-ladder-ii](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0127-word-ladder) |
+| [0128-longest-consecutive-sequence](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0217-contains-duplicate) |
@@ -565,4 +567,8 @@
 | ------- |
 | [0126-word-ladder-ii](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0127-word-ladder) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
