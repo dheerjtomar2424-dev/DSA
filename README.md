@@ -107,6 +107,7 @@
 | [0138-copy-list-with-random-pointer](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0138-copy-list-with-random-pointer) |
 | [0139-word-break](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0140-word-break-ii) |
+| [0141-linked-list-cycle](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0217-contains-duplicate) |
@@ -137,6 +138,7 @@
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0138-copy-list-with-random-pointer](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0138-copy-list-with-random-pointer) |
+| [0141-linked-list-cycle](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0141-linked-list-cycle) |
 ## Math
 |  |
 | ------- |
@@ -267,6 +269,7 @@
 | [0086-partition-list](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0086-partition-list) |
 | [0088-merge-sorted-array](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0125-valid-palindrome) |
+| [0141-linked-list-cycle](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0141-linked-list-cycle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0344-reverse-string) |
@@ -626,4 +629,8 @@
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
