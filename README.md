@@ -141,6 +141,7 @@
 | [0138-copy-list-with-random-pointer](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0142-linked-list-cycle-ii) |
+| [0143-reorder-list](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0143-reorder-list) |
 ## Math
 |  |
 | ------- |
@@ -172,6 +173,7 @@
 | [0044-wildcard-matching](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0044-wildcard-matching) |
 | [0050-powx-n](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0060-permutation-sequence) |
+| [0143-reorder-list](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0143-reorder-list) |
 ## String
 |  |
 | ------- |
@@ -273,6 +275,7 @@
 | [0125-valid-palindrome](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0142-linked-list-cycle-ii) |
+| [0143-reorder-list](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0143-reorder-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0344-reverse-string) |
@@ -459,6 +462,7 @@
 | [0084-largest-rectangle-in-histogram](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0085-maximal-rectangle) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0143-reorder-list](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0143-reorder-list) |
 ## Bracket Sequences
 |  |
 | ------- |
