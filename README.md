@@ -69,6 +69,7 @@
 | [0140-word-break-ii](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0140-word-break-ii) |
 | [0149-max-points-on-a-line](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0149-max-points-on-a-line) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0217-contains-duplicate) |
@@ -245,6 +246,7 @@
 | [0069-sqrtx](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0278-first-bad-version](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0278-first-bad-version) |
 | [0349-intersection-of-two-arrays](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0349-intersection-of-two-arrays) |
