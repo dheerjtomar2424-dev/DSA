@@ -109,6 +109,7 @@
 | [0140-word-break-ii](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0140-word-break-ii) |
 | [0141-linked-list-cycle](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0142-linked-list-cycle-ii) |
+| [0146-lru-cache](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0217-contains-duplicate) |
@@ -142,6 +143,7 @@
 | [0141-linked-list-cycle](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0143-reorder-list) |
+| [0146-lru-cache](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0146-lru-cache) |
 ## Math
 |  |
 | ------- |
@@ -649,4 +651,12 @@
 | ------- |
 | [0141-linked-list-cycle](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0142-linked-list-cycle-ii) |
+## Design
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0146-lru-cache) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
