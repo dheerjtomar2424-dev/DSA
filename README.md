@@ -68,6 +68,7 @@
 | [0139-word-break](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0140-word-break-ii) |
 | [0149-max-points-on-a-line](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0149-max-points-on-a-line) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0217-contains-duplicate) |
@@ -168,6 +169,7 @@
 | [0070-climbing-stairs](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0070-climbing-stairs) |
 | [0089-gray-code](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0089-gray-code) |
 | [0149-max-points-on-a-line](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0149-max-points-on-a-line) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [1512-number-of-good-pairs](https://github.com/dheerjtomar2424-dev/DSA/tree/master/1512-number-of-good-pairs) |
 ## Recursion
 |  |
@@ -476,6 +478,7 @@
 | [0143-reorder-list](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0145-binary-tree-postorder-traversal) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 ## Bracket Sequences
 |  |
 | ------- |
