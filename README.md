@@ -73,6 +73,7 @@
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0169-majority-element) |
+| [0174-dungeon-game](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0174-dungeon-game) |
 | [0217-contains-duplicate](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0283-move-zeroes) |
@@ -335,6 +336,7 @@
 | [0132-palindrome-partitioning-ii](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0132-palindrome-partitioning-ii) |
 | [0139-word-break](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0140-word-break-ii) |
+| [0174-dungeon-game](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0174-dungeon-game) |
 ## Sorting
 |  |
 | ------- |
@@ -391,6 +393,7 @@
 | [0079-word-search](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0085-maximal-rectangle) |
 | [0130-surrounded-regions](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0130-surrounded-regions) |
+| [0174-dungeon-game](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0174-dungeon-game) |
 | [1672-richest-customer-wealth](https://github.com/dheerjtomar2424-dev/DSA/tree/master/1672-richest-customer-wealth) |
 ## Counting Sort
 |  |
