@@ -173,6 +173,7 @@
 | [0149-max-points-on-a-line](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0149-max-points-on-a-line) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0171-excel-sheet-column-number](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0171-excel-sheet-column-number) |
+| [0172-factorial-trailing-zeroes](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0172-factorial-trailing-zeroes) |
 | [1512-number-of-good-pairs](https://github.com/dheerjtomar2424-dev/DSA/tree/master/1512-number-of-good-pairs) |
 ## Recursion
 |  |
