@@ -489,6 +489,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0155-min-stack) |
+| [0173-binary-search-tree-iterator](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0173-binary-search-tree-iterator) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -599,12 +600,14 @@
 | [0129-sum-root-to-leaf-numbers](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0145-binary-tree-postorder-traversal) |
+| [0173-binary-search-tree-iterator](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0173-binary-search-tree-iterator) |
 ## Binary Search Tree
 |  |
 | ------- |
 | [0099-recover-binary-search-tree](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0099-recover-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0173-binary-search-tree-iterator](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0173-binary-search-tree-iterator) |
 ## Binary Tree
 |  |
 | ------- |
@@ -630,6 +633,7 @@
 | [0129-sum-root-to-leaf-numbers](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0145-binary-tree-postorder-traversal) |
+| [0173-binary-search-tree-iterator](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0173-binary-search-tree-iterator) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -679,6 +683,7 @@
 | ------- |
 | [0146-lru-cache](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0155-min-stack) |
+| [0173-binary-search-tree-iterator](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0173-binary-search-tree-iterator) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -695,4 +700,8 @@
 |  |
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0149-max-points-on-a-line) |
+## Iterator
+|  |
+| ------- |
+| [0173-binary-search-tree-iterator](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0173-binary-search-tree-iterator) |
 <!---LeetCode Topics End-->
