@@ -172,6 +172,7 @@
 | [0089-gray-code](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0089-gray-code) |
 | [0149-max-points-on-a-line](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0149-max-points-on-a-line) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0171-excel-sheet-column-number](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0171-excel-sheet-column-number) |
 | [1512-number-of-good-pairs](https://github.com/dheerjtomar2424-dev/DSA/tree/master/1512-number-of-good-pairs) |
 ## Recursion
 |  |
@@ -226,6 +227,7 @@
 | [0139-word-break](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0140-word-break-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0151-reverse-words-in-a-string) |
+| [0171-excel-sheet-column-number](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0171-excel-sheet-column-number) |
 | [0205-isomorphic-strings](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0344-reverse-string) |
