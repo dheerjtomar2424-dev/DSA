@@ -707,4 +707,8 @@
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0173-binary-search-tree-iterator) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
