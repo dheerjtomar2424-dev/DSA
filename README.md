@@ -584,6 +584,7 @@
 | [0133-clone-graph](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0133-clone-graph) |
 | [0144-binary-tree-preorder-traversal](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0145-binary-tree-postorder-traversal) |
+| [0207-course-schedule](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0207-course-schedule) |
 ## Range Minimum/Maximum Query
 |  |
 | ------- |
@@ -664,6 +665,7 @@
 | [0127-word-ladder](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0130-surrounded-regions) |
 | [0133-clone-graph](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0133-clone-graph) |
+| [0207-course-schedule](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0207-course-schedule) |
 ## Bidirectional Search
 |  |
 | ------- |
@@ -678,6 +680,7 @@
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0133-clone-graph) |
+| [0207-course-schedule](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0207-course-schedule) |
 ## Brute-Force Search
 |  |
 | ------- |
@@ -749,4 +752,12 @@
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0204-count-primes) |
+## Topological Sort
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0207-course-schedule) |
+## Directed Acyclic Graph
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0207-course-schedule) |
 <!---LeetCode Topics End-->
