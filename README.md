@@ -76,6 +76,7 @@
 | [0174-dungeon-game](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0174-dungeon-game) |
 | [0179-largest-number](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0179-largest-number) |
 | [0204-count-primes](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0204-count-primes) |
+| [0209-minimum-size-subarray-sum](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0283-move-zeroes) |
@@ -250,6 +251,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0076-minimum-window-substring](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0076-minimum-window-substring) |
+| [0209-minimum-size-subarray-sum](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0219-contains-duplicate-ii) |
 ## Binary Search
 |  |
@@ -264,6 +266,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0278-first-bad-version](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0278-first-bad-version) |
 | [0349-intersection-of-two-arrays](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -764,4 +767,8 @@
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0207-course-schedule) |
+## Prefix Sum
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
