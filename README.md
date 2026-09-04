@@ -75,6 +75,7 @@
 | [0169-majority-element](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0169-majority-element) |
 | [0174-dungeon-game](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0174-dungeon-game) |
 | [0179-largest-number](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0179-largest-number) |
+| [0204-count-primes](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0283-move-zeroes) |
@@ -177,6 +178,7 @@
 | [0150-evaluate-reverse-polish-notation](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0171-excel-sheet-column-number](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0171-excel-sheet-column-number) |
 | [0172-factorial-trailing-zeroes](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0172-factorial-trailing-zeroes) |
+| [0204-count-primes](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0204-count-primes) |
 | [1512-number-of-good-pairs](https://github.com/dheerjtomar2424-dev/DSA/tree/master/1512-number-of-good-pairs) |
 ## Recursion
 |  |
@@ -725,4 +727,24 @@
 | [0182-duplicate-emails](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0182-duplicate-emails) |
 | [0183-customers-who-never-order](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0183-customers-who-never-order) |
 | [0184-department-highest-salary](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0184-department-highest-salary) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0204-count-primes) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
