@@ -243,6 +243,7 @@
 | [0179-largest-number](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0179-largest-number) |
 | [0205-isomorphic-strings](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0242-valid-anagram](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0387-first-unique-character-in-a-string) |
@@ -425,6 +426,7 @@
 | [0139-word-break](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0140-word-break-ii) |
 | [0208-implement-trie-prefix-tree](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0211-design-add-and-search-words-data-structure) |
 ## String Matching
 |  |
 | ------- |
@@ -593,6 +595,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0207-course-schedule](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0210-course-schedule-ii) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0211-design-add-and-search-words-data-structure) |
 ## Range Minimum/Maximum Query
 |  |
 | ------- |
@@ -711,6 +714,7 @@
 | [0155-min-stack](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0173-binary-search-tree-iterator) |
 | [0208-implement-trie-prefix-tree](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0211-design-add-and-search-words-data-structure) |
 ## Doubly-Linked List
 |  |
 | ------- |
