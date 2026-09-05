@@ -91,6 +91,7 @@
 | [1512-number-of-good-pairs](https://github.com/dheerjtomar2424-dev/DSA/tree/master/1512-number-of-good-pairs) |
 | [1672-richest-customer-wealth](https://github.com/dheerjtomar2424-dev/DSA/tree/master/1672-richest-customer-wealth) |
 | [1920-build-array-from-permutation](https://github.com/dheerjtomar2424-dev/DSA/tree/master/1920-build-array-from-permutation) |
+| [3904-smallest-stable-index-ii](https://github.com/dheerjtomar2424-dev/DSA/tree/master/3904-smallest-stable-index-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -771,4 +772,5 @@
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0209-minimum-size-subarray-sum) |
+| [3904-smallest-stable-index-ii](https://github.com/dheerjtomar2424-dev/DSA/tree/master/3904-smallest-stable-index-ii) |
 <!---LeetCode Topics End-->
