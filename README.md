@@ -592,6 +592,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0207-course-schedule](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0207-course-schedule) |
+| [0210-course-schedule-ii](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0210-course-schedule-ii) |
 ## Range Minimum/Maximum Query
 |  |
 | ------- |
@@ -673,6 +674,7 @@
 | [0130-surrounded-regions](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0130-surrounded-regions) |
 | [0133-clone-graph](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0207-course-schedule) |
+| [0210-course-schedule-ii](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0210-course-schedule-ii) |
 ## Bidirectional Search
 |  |
 | ------- |
@@ -688,6 +690,7 @@
 | ------- |
 | [0133-clone-graph](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0207-course-schedule) |
+| [0210-course-schedule-ii](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0210-course-schedule-ii) |
 ## Brute-Force Search
 |  |
 | ------- |
@@ -764,6 +767,7 @@
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0207-course-schedule) |
+| [0210-course-schedule-ii](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0210-course-schedule-ii) |
 ## Directed Acyclic Graph
 |  |
 | ------- |
