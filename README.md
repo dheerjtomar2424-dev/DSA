@@ -247,6 +247,7 @@
 | [0208-implement-trie-prefix-tree](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0212-word-search-ii](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0212-word-search-ii) |
+| [0214-shortest-palindrome](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0214-shortest-palindrome) |
 | [0242-valid-anagram](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0387-first-unique-character-in-a-string) |
@@ -437,14 +438,17 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0214-shortest-palindrome](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0214-shortest-palindrome) |
 ## Z Algorithm
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0214-shortest-palindrome](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0214-shortest-palindrome) |
 ## Knuth–Morris–Pratt Algorithm
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0214-shortest-palindrome](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0214-shortest-palindrome) |
 ## Boyer–Moore String-Search Algorithm
 |  |
 | ------- |
@@ -788,4 +792,16 @@
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [3904-smallest-stable-index-ii](https://github.com/dheerjtomar2424-dev/DSA/tree/master/3904-smallest-stable-index-ii) |
+## Rolling Hash
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0214-shortest-palindrome) |
+## Hash Function
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0214-shortest-palindrome) |
+## Manacher
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0214-shortest-palindrome) |
 <!---LeetCode Topics End-->
