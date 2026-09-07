@@ -84,6 +84,7 @@
 | [0217-contains-duplicate](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0217-contains-duplicate) |
 | [0218-the-skyline-problem](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0218-the-skyline-problem) |
 | [0219-contains-duplicate-ii](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0219-contains-duplicate-ii) |
+| [0220-contains-duplicate-iii](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0220-contains-duplicate-iii) |
 | [0283-move-zeroes](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0349-intersection-of-two-arrays) |
@@ -263,6 +264,7 @@
 | [0076-minimum-window-substring](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0219-contains-duplicate-ii) |
+| [0220-contains-duplicate-iii](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0220-contains-duplicate-iii) |
 ## Binary Search
 |  |
 | ------- |
@@ -382,6 +384,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0217-contains-duplicate) |
 | [0218-the-skyline-problem](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0218-the-skyline-problem) |
+| [0220-contains-duplicate-iii](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0220-contains-duplicate-iii) |
 | [0242-valid-anagram](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0349-intersection-of-two-arrays) |
@@ -483,6 +486,7 @@
 ## Bucket Sort
 |  |
 | ------- |
+| [0220-contains-duplicate-iii](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0220-contains-duplicate-iii) |
 | [0347-top-k-frequent-elements](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0347-top-k-frequent-elements) |
 ## Quickselect
 |  |
@@ -833,4 +837,5 @@
 |  |
 | ------- |
 | [0218-the-skyline-problem](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0218-the-skyline-problem) |
+| [0220-contains-duplicate-iii](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0220-contains-duplicate-iii) |
 <!---LeetCode Topics End-->
