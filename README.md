@@ -190,6 +190,7 @@
 | [0171-excel-sheet-column-number](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0171-excel-sheet-column-number) |
 | [0172-factorial-trailing-zeroes](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0172-factorial-trailing-zeroes) |
 | [0204-count-primes](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0204-count-primes) |
+| [0223-rectangle-area](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0223-rectangle-area) |
 | [1512-number-of-good-pairs](https://github.com/dheerjtomar2424-dev/DSA/tree/master/1512-number-of-good-pairs) |
 | [3870-count-commas-in-range](https://github.com/dheerjtomar2424-dev/DSA/tree/master/3870-count-commas-in-range) |
 ## Recursion
@@ -759,6 +760,7 @@
 |  |
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0149-max-points-on-a-line) |
+| [0223-rectangle-area](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0223-rectangle-area) |
 ## Euclidean Algorithm
 |  |
 | ------- |
