@@ -281,6 +281,7 @@
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0209-minimum-size-subarray-sum) |
+| [0222-count-complete-tree-nodes](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0222-count-complete-tree-nodes) |
 | [0278-first-bad-version](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0278-first-bad-version) |
 | [0349-intersection-of-two-arrays](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -569,6 +570,7 @@
 | [0090-subsets-ii](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0137-single-number-ii) |
+| [0222-count-complete-tree-nodes](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0222-count-complete-tree-nodes) |
 ## Algorithm X
 |  |
 | ------- |
@@ -658,6 +660,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0173-binary-search-tree-iterator](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0173-binary-search-tree-iterator) |
+| [0222-count-complete-tree-nodes](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0222-count-complete-tree-nodes) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -691,6 +694,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0173-binary-search-tree-iterator](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0173-binary-search-tree-iterator) |
+| [0222-count-complete-tree-nodes](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0222-count-complete-tree-nodes) |
 ## Breadth-First Search
 |  |
 | ------- |
