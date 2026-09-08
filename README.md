@@ -191,6 +191,7 @@
 | [0172-factorial-trailing-zeroes](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0172-factorial-trailing-zeroes) |
 | [0204-count-primes](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0204-count-primes) |
 | [0223-rectangle-area](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0223-rectangle-area) |
+| [0224-basic-calculator](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0224-basic-calculator) |
 | [1512-number-of-good-pairs](https://github.com/dheerjtomar2424-dev/DSA/tree/master/1512-number-of-good-pairs) |
 | [3870-count-commas-in-range](https://github.com/dheerjtomar2424-dev/DSA/tree/master/3870-count-commas-in-range) |
 ## Recursion
@@ -207,6 +208,7 @@
 | [0143-reorder-list](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0143-reorder-list) |
 | [0203-remove-linked-list-elements](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0206-reverse-linked-list) |
+| [0224-basic-calculator](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0224-basic-calculator) |
 ## String
 |  |
 | ------- |
@@ -255,6 +257,7 @@
 | [0211-design-add-and-search-words-data-structure](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0212-word-search-ii](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0212-word-search-ii) |
 | [0214-shortest-palindrome](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0214-shortest-palindrome) |
+| [0224-basic-calculator](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0224-basic-calculator) |
 | [0242-valid-anagram](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0387-first-unique-character-in-a-string) |
@@ -546,6 +549,7 @@
 | [0150-evaluate-reverse-polish-notation](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0173-binary-search-tree-iterator) |
+| [0224-basic-calculator](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0224-basic-calculator) |
 ## Bracket Sequences
 |  |
 | ------- |
