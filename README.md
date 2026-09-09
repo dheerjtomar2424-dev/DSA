@@ -192,6 +192,7 @@
 | [0204-count-primes](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0204-count-primes) |
 | [0223-rectangle-area](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0223-rectangle-area) |
 | [0224-basic-calculator](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0224-basic-calculator) |
+| [0227-basic-calculator-ii](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0227-basic-calculator-ii) |
 | [1512-number-of-good-pairs](https://github.com/dheerjtomar2424-dev/DSA/tree/master/1512-number-of-good-pairs) |
 | [3870-count-commas-in-range](https://github.com/dheerjtomar2424-dev/DSA/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/dheerjtomar2424-dev/DSA/tree/master/3871-count-commas-in-range-ii) |
@@ -259,6 +260,7 @@
 | [0212-word-search-ii](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0212-word-search-ii) |
 | [0214-shortest-palindrome](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0214-shortest-palindrome) |
 | [0224-basic-calculator](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0224-basic-calculator) |
+| [0227-basic-calculator-ii](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0227-basic-calculator-ii) |
 | [0242-valid-anagram](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0387-first-unique-character-in-a-string) |
@@ -553,6 +555,7 @@
 | [0173-binary-search-tree-iterator](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0173-binary-search-tree-iterator) |
 | [0224-basic-calculator](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0224-basic-calculator) |
 | [0225-implement-stack-using-queues](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0225-implement-stack-using-queues) |
+| [0227-basic-calculator-ii](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0227-basic-calculator-ii) |
 ## Bracket Sequences
 |  |
 | ------- |
