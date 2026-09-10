@@ -87,6 +87,7 @@
 | [0220-contains-duplicate-iii](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0220-contains-duplicate-iii) |
 | [0221-maximal-square](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0221-maximal-square) |
 | [0228-summary-ranges](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0228-summary-ranges) |
+| [0229-majority-element-ii](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0229-majority-element-ii) |
 | [0283-move-zeroes](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0349-intersection-of-two-arrays) |
@@ -133,6 +134,7 @@
 | [0208-implement-trie-prefix-tree](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0208-implement-trie-prefix-tree) |
 | [0217-contains-duplicate](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0219-contains-duplicate-ii) |
+| [0229-majority-element-ii](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0349-intersection-of-two-arrays) |
@@ -397,6 +399,7 @@
 | [0217-contains-duplicate](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0217-contains-duplicate) |
 | [0218-the-skyline-problem](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0218-the-skyline-problem) |
 | [0220-contains-duplicate-iii](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0220-contains-duplicate-iii) |
+| [0229-majority-element-ii](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0349-intersection-of-two-arrays) |
@@ -407,6 +410,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [1512-number-of-good-pairs](https://github.com/dheerjtomar2424-dev/DSA/tree/master/1512-number-of-good-pairs) |
@@ -414,6 +418,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0229-majority-element-ii) |
 ## Simulation
 |  |
 | ------- |
