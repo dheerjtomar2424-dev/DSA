@@ -100,6 +100,7 @@
 | [1512-number-of-good-pairs](https://github.com/dheerjtomar2424-dev/DSA/tree/master/1512-number-of-good-pairs) |
 | [1672-richest-customer-wealth](https://github.com/dheerjtomar2424-dev/DSA/tree/master/1672-richest-customer-wealth) |
 | [1920-build-array-from-permutation](https://github.com/dheerjtomar2424-dev/DSA/tree/master/1920-build-array-from-permutation) |
+| [3483-unique-3-digit-even-numbers](https://github.com/dheerjtomar2424-dev/DSA/tree/master/3483-unique-3-digit-even-numbers) |
 | [3904-smallest-stable-index-ii](https://github.com/dheerjtomar2424-dev/DSA/tree/master/3904-smallest-stable-index-ii) |
 ## Hash Table
 |  |
@@ -142,6 +143,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/dheerjtomar2424-dev/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/dheerjtomar2424-dev/DSA/tree/master/1512-number-of-good-pairs) |
+| [3483-unique-3-digit-even-numbers](https://github.com/dheerjtomar2424-dev/DSA/tree/master/3483-unique-3-digit-even-numbers) |
 ## Linked List
 |  |
 | ------- |
@@ -214,6 +216,7 @@
 | [0203-remove-linked-list-elements](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0206-reverse-linked-list) |
 | [0224-basic-calculator](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0224-basic-calculator) |
+| [3483-unique-3-digit-even-numbers](https://github.com/dheerjtomar2424-dev/DSA/tree/master/3483-unique-3-digit-even-numbers) |
 ## String
 |  |
 | ------- |
@@ -817,6 +820,7 @@
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0204-count-primes) |
+| [3483-unique-3-digit-even-numbers](https://github.com/dheerjtomar2424-dev/DSA/tree/master/3483-unique-3-digit-even-numbers) |
 ## Number Theory
 |  |
 | ------- |
