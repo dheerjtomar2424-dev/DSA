@@ -198,6 +198,7 @@
 | [0223-rectangle-area](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0223-rectangle-area) |
 | [0224-basic-calculator](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0227-basic-calculator-ii) |
+| [0231-power-of-two](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0231-power-of-two) |
 | [1512-number-of-good-pairs](https://github.com/dheerjtomar2424-dev/DSA/tree/master/1512-number-of-good-pairs) |
 | [3870-count-commas-in-range](https://github.com/dheerjtomar2424-dev/DSA/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/dheerjtomar2424-dev/DSA/tree/master/3871-count-commas-in-range-ii) |
@@ -216,6 +217,7 @@
 | [0203-remove-linked-list-elements](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0206-reverse-linked-list) |
 | [0224-basic-calculator](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0224-basic-calculator) |
+| [0231-power-of-two](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0231-power-of-two) |
 | [3483-unique-3-digit-even-numbers](https://github.com/dheerjtomar2424-dev/DSA/tree/master/3483-unique-3-digit-even-numbers) |
 ## String
 |  |
@@ -591,6 +593,7 @@
 | [0136-single-number](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0137-single-number-ii) |
 | [0222-count-complete-tree-nodes](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0222-count-complete-tree-nodes) |
+| [0231-power-of-two](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0231-power-of-two) |
 ## Algorithm X
 |  |
 | ------- |
