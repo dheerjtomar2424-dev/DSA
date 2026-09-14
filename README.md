@@ -88,6 +88,7 @@
 | [0221-maximal-square](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0221-maximal-square) |
 | [0228-summary-ranges](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0228-summary-ranges) |
 | [0229-majority-element-ii](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0229-majority-element-ii) |
+| [0238-product-of-array-except-self](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0349-intersection-of-two-arrays) |
@@ -872,6 +873,7 @@
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0209-minimum-size-subarray-sum) |
+| [0238-product-of-array-except-self](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0238-product-of-array-except-self) |
 | [3904-smallest-stable-index-ii](https://github.com/dheerjtomar2424-dev/DSA/tree/master/3904-smallest-stable-index-ii) |
 ## Rolling Hash
 |  |
