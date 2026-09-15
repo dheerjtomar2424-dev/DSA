@@ -282,6 +282,7 @@
 | [0344-reverse-string](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0940-distinct-subsequences-ii](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0940-distinct-subsequences-ii) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/dheerjtomar2424-dev/DSA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Sliding Window
 |  |
 | ------- |
@@ -359,6 +360,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0977-squares-of-a-sorted-array) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/dheerjtomar2424-dev/DSA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -397,6 +399,7 @@
 | [0221-maximal-square](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0221-maximal-square) |
 | [0233-number-of-digit-one](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0233-number-of-digit-one) |
 | [0940-distinct-subsequences-ii](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0940-distinct-subsequences-ii) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/dheerjtomar2424-dev/DSA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/dheerjtomar2424-dev/DSA/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Sorting
 |  |
@@ -516,6 +519,7 @@
 | [0134-gas-station](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0135-candy) |
 | [0179-largest-number](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0179-largest-number) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/dheerjtomar2424-dev/DSA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
