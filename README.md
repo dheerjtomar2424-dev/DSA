@@ -90,6 +90,7 @@
 | [0229-majority-element-ii](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0239-sliding-window-maximum) |
+| [0240-search-a-2d-matrix-ii](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0349-intersection-of-two-arrays) |
@@ -310,6 +311,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0222-count-complete-tree-nodes) |
+| [0240-search-a-2d-matrix-ii](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0278-first-bad-version](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0278-first-bad-version) |
 | [0349-intersection-of-two-arrays](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -329,6 +331,7 @@
 | [0169-majority-element](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0218-the-skyline-problem](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0218-the-skyline-problem) |
+| [0240-search-a-2d-matrix-ii](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0347-top-k-frequent-elements](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0347-top-k-frequent-elements) |
 ## Two Pointers
 |  |
@@ -472,6 +475,7 @@
 | [0174-dungeon-game](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0174-dungeon-game) |
 | [0212-word-search-ii](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0212-word-search-ii) |
 | [0221-maximal-square](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0221-maximal-square) |
+| [0240-search-a-2d-matrix-ii](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0835-image-overlap](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0835-image-overlap) |
 | [1672-richest-customer-wealth](https://github.com/dheerjtomar2424-dev/DSA/tree/master/1672-richest-customer-wealth) |
 ## Counting Sort
