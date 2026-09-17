@@ -209,6 +209,7 @@
 | [0227-basic-calculator-ii](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0227-basic-calculator-ii) |
 | [0231-power-of-two](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0231-power-of-two) |
 | [0233-number-of-digit-one](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0233-number-of-digit-one) |
+| [0241-different-ways-to-add-parentheses](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0241-different-ways-to-add-parentheses) |
 | [0836-rectangle-overlap](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0836-rectangle-overlap) |
 | [1512-number-of-good-pairs](https://github.com/dheerjtomar2424-dev/DSA/tree/master/1512-number-of-good-pairs) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/dheerjtomar2424-dev/DSA/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
@@ -232,6 +233,7 @@
 | [0231-power-of-two](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0231-power-of-two) |
 | [0233-number-of-digit-one](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0233-number-of-digit-one) |
 | [0234-palindrome-linked-list](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0234-palindrome-linked-list) |
+| [0241-different-ways-to-add-parentheses](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0241-different-ways-to-add-parentheses) |
 | [3483-unique-3-digit-even-numbers](https://github.com/dheerjtomar2424-dev/DSA/tree/master/3483-unique-3-digit-even-numbers) |
 ## String
 |  |
@@ -283,6 +285,7 @@
 | [0214-shortest-palindrome](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0214-shortest-palindrome) |
 | [0224-basic-calculator](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0227-basic-calculator-ii) |
+| [0241-different-ways-to-add-parentheses](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0241-different-ways-to-add-parentheses) |
 | [0242-valid-anagram](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0387-first-unique-character-in-a-string) |
@@ -408,6 +411,7 @@
 | [0213-house-robber-ii](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0213-house-robber-ii) |
 | [0221-maximal-square](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0221-maximal-square) |
 | [0233-number-of-digit-one](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0233-number-of-digit-one) |
+| [0241-different-ways-to-add-parentheses](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0241-different-ways-to-add-parentheses) |
 | [0940-distinct-subsequences-ii](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0940-distinct-subsequences-ii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/dheerjtomar2424-dev/DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/dheerjtomar2424-dev/DSA/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
@@ -610,6 +614,7 @@
 | [0020-valid-parentheses](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0032-longest-valid-parentheses) |
+| [0241-different-ways-to-add-parentheses](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0241-different-ways-to-add-parentheses) |
 ## Merge Sort
 |  |
 | ------- |
@@ -663,6 +668,7 @@
 | [0070-climbing-stairs](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0140-word-break-ii) |
+| [0241-different-ways-to-add-parentheses](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0241-different-ways-to-add-parentheses) |
 ## Bubble Sort
 |  |
 | ------- |
