@@ -101,6 +101,7 @@
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/dheerjtomar2424-dev/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/dheerjtomar2424-dev/DSA/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1470-shuffle-the-array](https://github.com/dheerjtomar2424-dev/DSA/tree/master/1470-shuffle-the-array) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/dheerjtomar2424-dev/DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1512-number-of-good-pairs](https://github.com/dheerjtomar2424-dev/DSA/tree/master/1512-number-of-good-pairs) |
 | [1672-richest-customer-wealth](https://github.com/dheerjtomar2424-dev/DSA/tree/master/1672-richest-customer-wealth) |
 | [1920-build-array-from-permutation](https://github.com/dheerjtomar2424-dev/DSA/tree/master/1920-build-array-from-permutation) |
@@ -147,6 +148,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/dheerjtomar2424-dev/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/dheerjtomar2424-dev/DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1512-number-of-good-pairs](https://github.com/dheerjtomar2424-dev/DSA/tree/master/1512-number-of-good-pairs) |
 | [3483-unique-3-digit-even-numbers](https://github.com/dheerjtomar2424-dev/DSA/tree/master/3483-unique-3-digit-even-numbers) |
 ## Linked List
@@ -296,6 +298,7 @@
 | [0219-contains-duplicate-ii](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0220-contains-duplicate-iii](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0220-contains-duplicate-iii) |
 | [0239-sliding-window-maximum](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0239-sliding-window-maximum) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/dheerjtomar2424-dev/DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 ## Binary Search
 |  |
 | ------- |
@@ -316,6 +319,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0704-binary-search](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0704-binary-search) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/dheerjtomar2424-dev/DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/dheerjtomar2424-dev/DSA/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Divide and Conquer
 |  |
@@ -405,6 +409,7 @@
 | [0221-maximal-square](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0221-maximal-square) |
 | [0233-number-of-digit-one](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0233-number-of-digit-one) |
 | [0940-distinct-subsequences-ii](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0940-distinct-subsequences-ii) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/dheerjtomar2424-dev/DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/dheerjtomar2424-dev/DSA/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/dheerjtomar2424-dev/DSA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/dheerjtomar2424-dev/DSA/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
