@@ -288,6 +288,7 @@
 | [0227-basic-calculator-ii](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0227-basic-calculator-ii) |
 | [0241-different-ways-to-add-parentheses](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0241-different-ways-to-add-parentheses) |
 | [0242-valid-anagram](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0242-valid-anagram) |
+| [0257-binary-tree-paths](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0257-binary-tree-paths) |
 | [0344-reverse-string](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0940-distinct-subsequences-ii](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0940-distinct-subsequences-ii) |
@@ -591,6 +592,7 @@
 | [0140-word-break-ii](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0140-word-break-ii) |
 | [0212-word-search-ii](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0212-word-search-ii) |
 | [0216-combination-sum-iii](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0216-combination-sum-iii) |
+| [0257-binary-tree-paths](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0257-binary-tree-paths) |
 ## Stack
 |  |
 | ------- |
@@ -703,6 +705,7 @@
 | [0211-design-add-and-search-words-data-structure](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0226-invert-binary-tree](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0257-binary-tree-paths](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0257-binary-tree-paths) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/dheerjtomar2424-dev/DSA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Range Minimum/Maximum Query
 |  |
@@ -738,6 +741,7 @@
 | [0222-count-complete-tree-nodes](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0257-binary-tree-paths](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0257-binary-tree-paths) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/dheerjtomar2424-dev/DSA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Search Tree
 |  |
@@ -776,6 +780,7 @@
 | [0222-count-complete-tree-nodes](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0257-binary-tree-paths](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0257-binary-tree-paths) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/dheerjtomar2424-dev/DSA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Breadth-First Search
 |  |
