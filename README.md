@@ -211,6 +211,7 @@
 | [0231-power-of-two](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0231-power-of-two) |
 | [0233-number-of-digit-one](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0233-number-of-digit-one) |
 | [0241-different-ways-to-add-parentheses](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0241-different-ways-to-add-parentheses) |
+| [0258-add-digits](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0258-add-digits) |
 | [0836-rectangle-overlap](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0836-rectangle-overlap) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/dheerjtomar2424-dev/DSA/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1512-number-of-good-pairs](https://github.com/dheerjtomar2424-dev/DSA/tree/master/1512-number-of-good-pairs) |
@@ -470,6 +471,7 @@
 | [0059-spiral-matrix-ii](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0059-spiral-matrix-ii) |
 | [0067-add-binary](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0068-text-justification) |
+| [0258-add-digits](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0258-add-digits) |
 | [1920-build-array-from-permutation](https://github.com/dheerjtomar2424-dev/DSA/tree/master/1920-build-array-from-permutation) |
 ## Matrix
 |  |
@@ -886,6 +888,7 @@
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0204-count-primes) |
+| [0258-add-digits](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0258-add-digits) |
 ## Primality Test
 |  |
 | ------- |
