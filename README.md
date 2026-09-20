@@ -296,6 +296,7 @@
 | [0940-distinct-subsequences-ii](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0940-distinct-subsequences-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/dheerjtomar2424-dev/DSA/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/dheerjtomar2424-dev/DSA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [3498-reverse-degree-of-a-string](https://github.com/dheerjtomar2424-dev/DSA/tree/master/3498-reverse-degree-of-a-string) |
 ## Sliding Window
 |  |
 | ------- |
@@ -473,6 +474,7 @@
 | [0068-text-justification](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0068-text-justification) |
 | [0258-add-digits](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0258-add-digits) |
 | [1920-build-array-from-permutation](https://github.com/dheerjtomar2424-dev/DSA/tree/master/1920-build-array-from-permutation) |
+| [3498-reverse-degree-of-a-string](https://github.com/dheerjtomar2424-dev/DSA/tree/master/3498-reverse-degree-of-a-string) |
 ## Matrix
 |  |
 | ------- |
