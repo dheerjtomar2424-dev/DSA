@@ -91,6 +91,7 @@
 | [0238-product-of-array-except-self](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0240-search-a-2d-matrix-ii) |
+| [0260-single-number-iii](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0260-single-number-iii) |
 | [0283-move-zeroes](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0349-intersection-of-two-arrays) |
@@ -654,6 +655,7 @@
 | [0137-single-number-ii](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0137-single-number-ii) |
 | [0222-count-complete-tree-nodes](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0231-power-of-two) |
+| [0260-single-number-iii](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0260-single-number-iii) |
 ## Algorithm X
 |  |
 | ------- |
