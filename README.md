@@ -106,6 +106,7 @@
 | [1512-number-of-good-pairs](https://github.com/dheerjtomar2424-dev/DSA/tree/master/1512-number-of-good-pairs) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/dheerjtomar2424-dev/DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1672-richest-customer-wealth](https://github.com/dheerjtomar2424-dev/DSA/tree/master/1672-richest-customer-wealth) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/dheerjtomar2424-dev/DSA/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1920-build-array-from-permutation](https://github.com/dheerjtomar2424-dev/DSA/tree/master/1920-build-array-from-permutation) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/dheerjtomar2424-dev/DSA/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3483-unique-3-digit-even-numbers](https://github.com/dheerjtomar2424-dev/DSA/tree/master/3483-unique-3-digit-even-numbers) |
@@ -157,6 +158,7 @@
 | [1512-number-of-good-pairs](https://github.com/dheerjtomar2424-dev/DSA/tree/master/1512-number-of-good-pairs) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/dheerjtomar2424-dev/DSA/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/dheerjtomar2424-dev/DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/dheerjtomar2424-dev/DSA/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [3483-unique-3-digit-even-numbers](https://github.com/dheerjtomar2424-dev/DSA/tree/master/3483-unique-3-digit-even-numbers) |
 ## Linked List
 |  |
@@ -304,6 +306,7 @@
 | [0940-distinct-subsequences-ii](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0940-distinct-subsequences-ii) |
 | [1096-brace-expansion-ii](https://github.com/dheerjtomar2424-dev/DSA/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/dheerjtomar2424-dev/DSA/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/dheerjtomar2424-dev/DSA/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/dheerjtomar2424-dev/DSA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3498-reverse-degree-of-a-string](https://github.com/dheerjtomar2424-dev/DSA/tree/master/3498-reverse-degree-of-a-string) |
 ## Sliding Window
