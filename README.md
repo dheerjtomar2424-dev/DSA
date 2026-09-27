@@ -305,6 +305,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0940-distinct-subsequences-ii](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0940-distinct-subsequences-ii) |
 | [1096-brace-expansion-ii](https://github.com/dheerjtomar2424-dev/DSA/tree/master/1096-brace-expansion-ii) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/dheerjtomar2424-dev/DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/dheerjtomar2424-dev/DSA/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/dheerjtomar2424-dev/DSA/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/dheerjtomar2424-dev/DSA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -637,6 +638,7 @@
 | [0232-implement-queue-using-stacks](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0234-palindrome-linked-list) |
 | [1096-brace-expansion-ii](https://github.com/dheerjtomar2424-dev/DSA/tree/master/1096-brace-expansion-ii) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/dheerjtomar2424-dev/DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -644,6 +646,7 @@
 | [0022-generate-parentheses](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0241-different-ways-to-add-parentheses](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0241-different-ways-to-add-parentheses) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/dheerjtomar2424-dev/DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Merge Sort
 |  |
 | ------- |
