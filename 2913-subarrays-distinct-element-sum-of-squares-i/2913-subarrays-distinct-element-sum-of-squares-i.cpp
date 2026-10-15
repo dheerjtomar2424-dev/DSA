@@ -1,5 +1,4 @@
 #include <vector>
-#include <unordered_set>
 
 class Solution {
 public:
@@ -7,17 +6,17 @@ public:
         int n = nums.size();
         int totalSum = 0;
         
-        // Outer loop for the starting index
         for (int i = 0; i < n; i++) {
-            unordered_set<int> distinctElements;
+            int distinctCount = 0;
+            int freq[105] = {0}; 
             
-            // Inner loop for the ending index
             for (int j = i; j < n; j++) {
-                distinctElements.insert(nums[j]);
-                int count = distinctElements.size();
+                if (freq[nums[j]] == 0) {
+                    distinctCount++;
+                }
+                freq[nums[j]]++;
                 
-                // Add the square of the distinct count to the total sum
-                totalSum += count * count;
+                totalSum += distinctCount * distinctCount;
             }
         }
         
