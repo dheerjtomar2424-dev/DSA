@@ -1,5 +1,3 @@
-#include <vector>
-
 class Solution {
 public:
     int sumCounts(vector<int>& nums) {
@@ -11,7 +9,7 @@ public:
             int freq[105] = {0}; 
             
             for (int j = i; j < n; j++) {
-                if (freq[nums[j]] == 0) {
+                if (freq[nums[j]] == 0) { 
                     distinctCount++;
                 }
                 freq[nums[j]]++;
