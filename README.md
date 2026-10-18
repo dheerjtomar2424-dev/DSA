@@ -104,6 +104,7 @@
 | [1470-shuffle-the-array](https://github.com/dheerjtomar2424-dev/DSA/tree/master/1470-shuffle-the-array) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/dheerjtomar2424-dev/DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1512-number-of-good-pairs](https://github.com/dheerjtomar2424-dev/DSA/tree/master/1512-number-of-good-pairs) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/dheerjtomar2424-dev/DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/dheerjtomar2424-dev/DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1672-richest-customer-wealth](https://github.com/dheerjtomar2424-dev/DSA/tree/master/1672-richest-customer-wealth) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/dheerjtomar2424-dev/DSA/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -235,6 +236,7 @@
 | [0836-rectangle-overlap](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0836-rectangle-overlap) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/dheerjtomar2424-dev/DSA/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1512-number-of-good-pairs](https://github.com/dheerjtomar2424-dev/DSA/tree/master/1512-number-of-good-pairs) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/dheerjtomar2424-dev/DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/dheerjtomar2424-dev/DSA/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3524-find-x-value-of-array-i](https://github.com/dheerjtomar2424-dev/DSA/tree/master/3524-find-x-value-of-array-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/dheerjtomar2424-dev/DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -383,6 +385,7 @@
 | [0218-the-skyline-problem](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0218-the-skyline-problem) |
 | [0240-search-a-2d-matrix-ii](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0347-top-k-frequent-elements](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0347-top-k-frequent-elements) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/dheerjtomar2424-dev/DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Two Pointers
 |  |
 | ------- |
@@ -458,6 +461,7 @@
 | [0678-valid-parenthesis-string](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0940-distinct-subsequences-ii](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0940-distinct-subsequences-ii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/dheerjtomar2424-dev/DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/dheerjtomar2424-dev/DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/dheerjtomar2424-dev/DSA/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/dheerjtomar2424-dev/DSA/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/dheerjtomar2424-dev/DSA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -747,6 +751,7 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0062-unique-paths) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/dheerjtomar2424-dev/DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/dheerjtomar2424-dev/DSA/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 ## Memoization
 |  |
@@ -755,6 +760,7 @@
 | [0139-word-break](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0140-word-break-ii) |
 | [0241-different-ways-to-add-parentheses](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0241-different-ways-to-add-parentheses) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/dheerjtomar2424-dev/DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Bubble Sort
 |  |
 | ------- |
@@ -822,6 +828,7 @@
 | [0226-invert-binary-tree](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0257-binary-tree-paths](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0257-binary-tree-paths) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/dheerjtomar2424-dev/DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/dheerjtomar2424-dev/DSA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Search Tree
 |  |
@@ -831,6 +838,7 @@
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0173-binary-search-tree-iterator](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0173-binary-search-tree-iterator) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/dheerjtomar2424-dev/DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Binary Tree
 |  |
 | ------- |
@@ -861,6 +869,7 @@
 | [0226-invert-binary-tree](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0257-binary-tree-paths](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0257-binary-tree-paths) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/dheerjtomar2424-dev/DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/dheerjtomar2424-dev/DSA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Breadth-First Search
 |  |
@@ -894,6 +903,7 @@
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0130-surrounded-regions) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/dheerjtomar2424-dev/DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Graph Theory
 |  |
 | ------- |
@@ -1035,4 +1045,8 @@
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0239-sliding-window-maximum) |
+## Fermat's Little Theorem
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/dheerjtomar2424-dev/DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 <!---LeetCode Topics End-->
