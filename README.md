@@ -235,6 +235,7 @@
 | [0233-number-of-digit-one](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0233-number-of-digit-one) |
 | [0241-different-ways-to-add-parentheses](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0241-different-ways-to-add-parentheses) |
 | [0258-add-digits](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0258-add-digits) |
+| [0279-perfect-squares](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0279-perfect-squares) |
 | [0836-rectangle-overlap](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0836-rectangle-overlap) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/dheerjtomar2424-dev/DSA/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1512-number-of-good-pairs](https://github.com/dheerjtomar2424-dev/DSA/tree/master/1512-number-of-good-pairs) |
@@ -463,6 +464,7 @@
 | [0221-maximal-square](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0221-maximal-square) |
 | [0233-number-of-digit-one](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0233-number-of-digit-one) |
 | [0241-different-ways-to-add-parentheses](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0241-different-ways-to-add-parentheses) |
+| [0279-perfect-squares](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0279-perfect-squares) |
 | [0678-valid-parenthesis-string](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0940-distinct-subsequences-ii](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0940-distinct-subsequences-ii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/dheerjtomar2424-dev/DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -898,6 +900,7 @@
 | [0207-course-schedule](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0226-invert-binary-tree) |
+| [0279-perfect-squares](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0279-perfect-squares) |
 | [0301-remove-invalid-parentheses](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/dheerjtomar2424-dev/DSA/tree/master/1096-brace-expansion-ii) |
 ## Bidirectional Search
@@ -1057,4 +1060,12 @@
 |  |
 | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/dheerjtomar2424-dev/DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0279-perfect-squares](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0279-perfect-squares) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0279-perfect-squares](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0279-perfect-squares) |
 <!---LeetCode Topics End-->
