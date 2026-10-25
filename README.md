@@ -99,6 +99,7 @@
 | [0704-binary-search](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0704-binary-search) |
 | [0835-image-overlap](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0835-image-overlap) |
 | [0977-squares-of-a-sorted-array](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0977-squares-of-a-sorted-array) |
+| [1254-number-of-closed-islands](https://github.com/dheerjtomar2424-dev/DSA/tree/master/1254-number-of-closed-islands) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/dheerjtomar2424-dev/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/dheerjtomar2424-dev/DSA/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1470-shuffle-the-array](https://github.com/dheerjtomar2424-dev/DSA/tree/master/1470-shuffle-the-array) |
@@ -556,6 +557,7 @@
 | [0221-maximal-square](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0221-maximal-square) |
 | [0240-search-a-2d-matrix-ii](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0835-image-overlap](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0835-image-overlap) |
+| [1254-number-of-closed-islands](https://github.com/dheerjtomar2424-dev/DSA/tree/master/1254-number-of-closed-islands) |
 | [1672-richest-customer-wealth](https://github.com/dheerjtomar2424-dev/DSA/tree/master/1672-richest-customer-wealth) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/dheerjtomar2424-dev/DSA/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Counting Sort
@@ -806,6 +808,7 @@
 | [0226-invert-binary-tree](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0257-binary-tree-paths](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0257-binary-tree-paths) |
+| [1254-number-of-closed-islands](https://github.com/dheerjtomar2424-dev/DSA/tree/master/1254-number-of-closed-islands) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/dheerjtomar2424-dev/DSA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Range Minimum/Maximum Query
 |  |
@@ -908,6 +911,7 @@
 | [0279-perfect-squares](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0279-perfect-squares) |
 | [0301-remove-invalid-parentheses](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/dheerjtomar2424-dev/DSA/tree/master/1096-brace-expansion-ii) |
+| [1254-number-of-closed-islands](https://github.com/dheerjtomar2424-dev/DSA/tree/master/1254-number-of-closed-islands) |
 ## Bidirectional Search
 |  |
 | ------- |
@@ -918,6 +922,7 @@
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0130-surrounded-regions) |
+| [1254-number-of-closed-islands](https://github.com/dheerjtomar2424-dev/DSA/tree/master/1254-number-of-closed-islands) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/dheerjtomar2424-dev/DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Graph Theory
 |  |
