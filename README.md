@@ -122,6 +122,7 @@
 | [3524-find-x-value-of-array-i](https://github.com/dheerjtomar2424-dev/DSA/tree/master/3524-find-x-value-of-array-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/dheerjtomar2424-dev/DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/dheerjtomar2424-dev/DSA/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/dheerjtomar2424-dev/DSA/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/dheerjtomar2424-dev/DSA/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/dheerjtomar2424-dev/DSA/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3886-sum-of-sortable-integers](https://github.com/dheerjtomar2424-dev/DSA/tree/master/3886-sum-of-sortable-integers) |
@@ -560,6 +561,7 @@
 | [1254-number-of-closed-islands](https://github.com/dheerjtomar2424-dev/DSA/tree/master/1254-number-of-closed-islands) |
 | [1672-richest-customer-wealth](https://github.com/dheerjtomar2424-dev/DSA/tree/master/1672-richest-customer-wealth) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/dheerjtomar2424-dev/DSA/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/dheerjtomar2424-dev/DSA/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Counting Sort
 |  |
 | ------- |
@@ -810,6 +812,7 @@
 | [0257-binary-tree-paths](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0257-binary-tree-paths) |
 | [1254-number-of-closed-islands](https://github.com/dheerjtomar2424-dev/DSA/tree/master/1254-number-of-closed-islands) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/dheerjtomar2424-dev/DSA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/dheerjtomar2424-dev/DSA/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Range Minimum/Maximum Query
 |  |
 | ------- |
@@ -912,6 +915,7 @@
 | [0301-remove-invalid-parentheses](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/dheerjtomar2424-dev/DSA/tree/master/1096-brace-expansion-ii) |
 | [1254-number-of-closed-islands](https://github.com/dheerjtomar2424-dev/DSA/tree/master/1254-number-of-closed-islands) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/dheerjtomar2424-dev/DSA/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Bidirectional Search
 |  |
 | ------- |
@@ -924,6 +928,7 @@
 | [0130-surrounded-regions](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0130-surrounded-regions) |
 | [1254-number-of-closed-islands](https://github.com/dheerjtomar2424-dev/DSA/tree/master/1254-number-of-closed-islands) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/dheerjtomar2424-dev/DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/dheerjtomar2424-dev/DSA/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Graph Theory
 |  |
 | ------- |
