@@ -1,10 +1,3 @@
-#include <vector>
-#include <string>
-#include <queue>
-#include <tuple>
-
-using namespace std;
-
 class Solution {
 public:
     int shortestPath(int n, vector<vector<int>>& edges, string labels, int k) {
