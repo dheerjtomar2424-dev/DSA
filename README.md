@@ -96,6 +96,7 @@
 | [0347-top-k-frequent-elements](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0704-binary-search](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0704-binary-search) |
 | [0835-image-overlap](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0835-image-overlap) |
 | [0977-squares-of-a-sorted-array](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0977-squares-of-a-sorted-array) |
@@ -243,6 +244,7 @@
 | [0241-different-ways-to-add-parentheses](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0241-different-ways-to-add-parentheses) |
 | [0258-add-digits](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0258-add-digits) |
 | [0279-perfect-squares](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0279-perfect-squares) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0836-rectangle-overlap](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0836-rectangle-overlap) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/dheerjtomar2424-dev/DSA/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1512-number-of-good-pairs](https://github.com/dheerjtomar2424-dev/DSA/tree/master/1512-number-of-good-pairs) |
