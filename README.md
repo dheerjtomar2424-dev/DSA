@@ -102,6 +102,7 @@
 | [0835-image-overlap](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0835-image-overlap) |
 | [0977-squares-of-a-sorted-array](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1254-number-of-closed-islands](https://github.com/dheerjtomar2424-dev/DSA/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/dheerjtomar2424-dev/DSA/tree/master/1267-count-servers-that-communicate) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/dheerjtomar2424-dev/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/dheerjtomar2424-dev/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/dheerjtomar2424-dev/DSA/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -550,6 +551,7 @@
 | [0229-majority-element-ii](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0387-first-unique-character-in-a-string) |
+| [1267-count-servers-that-communicate](https://github.com/dheerjtomar2424-dev/DSA/tree/master/1267-count-servers-that-communicate) |
 | [1512-number-of-good-pairs](https://github.com/dheerjtomar2424-dev/DSA/tree/master/1512-number-of-good-pairs) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
@@ -588,6 +590,7 @@
 | [0240-search-a-2d-matrix-ii](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0835-image-overlap](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0835-image-overlap) |
 | [1254-number-of-closed-islands](https://github.com/dheerjtomar2424-dev/DSA/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/dheerjtomar2424-dev/DSA/tree/master/1267-count-servers-that-communicate) |
 | [1672-richest-customer-wealth](https://github.com/dheerjtomar2424-dev/DSA/tree/master/1672-richest-customer-wealth) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/dheerjtomar2424-dev/DSA/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/dheerjtomar2424-dev/DSA/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
@@ -847,6 +850,7 @@
 | [0230-kth-smallest-element-in-a-bst](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0257-binary-tree-paths](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0257-binary-tree-paths) |
 | [1254-number-of-closed-islands](https://github.com/dheerjtomar2424-dev/DSA/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/dheerjtomar2424-dev/DSA/tree/master/1267-count-servers-that-communicate) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/dheerjtomar2424-dev/DSA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/dheerjtomar2424-dev/DSA/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/dheerjtomar2424-dev/DSA/tree/master/3841-palindromic-path-queries-in-a-tree) |
@@ -953,6 +957,7 @@
 | [0301-remove-invalid-parentheses](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/dheerjtomar2424-dev/DSA/tree/master/1096-brace-expansion-ii) |
 | [1254-number-of-closed-islands](https://github.com/dheerjtomar2424-dev/DSA/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/dheerjtomar2424-dev/DSA/tree/master/1267-count-servers-that-communicate) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/dheerjtomar2424-dev/DSA/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Bidirectional Search
 |  |
@@ -965,6 +970,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0130-surrounded-regions) |
 | [1254-number-of-closed-islands](https://github.com/dheerjtomar2424-dev/DSA/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/dheerjtomar2424-dev/DSA/tree/master/1267-count-servers-that-communicate) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/dheerjtomar2424-dev/DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/dheerjtomar2424-dev/DSA/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Graph Theory
