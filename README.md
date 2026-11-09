@@ -110,6 +110,7 @@
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/dheerjtomar2424-dev/DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1512-number-of-good-pairs](https://github.com/dheerjtomar2424-dev/DSA/tree/master/1512-number-of-good-pairs) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/dheerjtomar2424-dev/DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/dheerjtomar2424-dev/DSA/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/dheerjtomar2424-dev/DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1672-richest-customer-wealth](https://github.com/dheerjtomar2424-dev/DSA/tree/master/1672-richest-customer-wealth) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/dheerjtomar2424-dev/DSA/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -567,6 +568,7 @@
 | [0067-add-binary](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0068-text-justification) |
 | [0258-add-digits](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0258-add-digits) |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/dheerjtomar2424-dev/DSA/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1920-build-array-from-permutation](https://github.com/dheerjtomar2424-dev/DSA/tree/master/1920-build-array-from-permutation) |
 | [3498-reverse-degree-of-a-string](https://github.com/dheerjtomar2424-dev/DSA/tree/master/3498-reverse-degree-of-a-string) |
 ## Matrix
@@ -663,6 +665,7 @@
 | [0218-the-skyline-problem](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0218-the-skyline-problem) |
 | [0239-sliding-window-maximum](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0347-top-k-frequent-elements) |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/dheerjtomar2424-dev/DSA/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1882-process-tasks-using-servers](https://github.com/dheerjtomar2424-dev/DSA/tree/master/1882-process-tasks-using-servers) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/dheerjtomar2424-dev/DSA/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/dheerjtomar2424-dev/DSA/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
@@ -1114,6 +1117,7 @@
 | ------- |
 | [0218-the-skyline-problem](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0218-the-skyline-problem) |
 | [0220-contains-duplicate-iii](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0220-contains-duplicate-iii) |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/dheerjtomar2424-dev/DSA/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 ## Monotonic Queue
 |  |
 | ------- |
