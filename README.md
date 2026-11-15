@@ -109,6 +109,7 @@
 | [1470-shuffle-the-array](https://github.com/dheerjtomar2424-dev/DSA/tree/master/1470-shuffle-the-array) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/dheerjtomar2424-dev/DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1512-number-of-good-pairs](https://github.com/dheerjtomar2424-dev/DSA/tree/master/1512-number-of-good-pairs) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/dheerjtomar2424-dev/DSA/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/dheerjtomar2424-dev/DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/dheerjtomar2424-dev/DSA/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/dheerjtomar2424-dev/DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -263,6 +264,7 @@
 | [0836-rectangle-overlap](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0836-rectangle-overlap) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/dheerjtomar2424-dev/DSA/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1512-number-of-good-pairs](https://github.com/dheerjtomar2424-dev/DSA/tree/master/1512-number-of-good-pairs) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/dheerjtomar2424-dev/DSA/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/dheerjtomar2424-dev/DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/dheerjtomar2424-dev/DSA/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2409-count-days-spent-together](https://github.com/dheerjtomar2424-dev/DSA/tree/master/2409-count-days-spent-together) |
@@ -506,6 +508,7 @@
 | [0678-valid-parenthesis-string](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0940-distinct-subsequences-ii](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0940-distinct-subsequences-ii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/dheerjtomar2424-dev/DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/dheerjtomar2424-dev/DSA/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/dheerjtomar2424-dev/DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/dheerjtomar2424-dev/DSA/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/dheerjtomar2424-dev/DSA/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
@@ -1091,6 +1094,7 @@
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/dheerjtomar2424-dev/DSA/tree/master/0238-product-of-array-except-self) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/dheerjtomar2424-dev/DSA/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/dheerjtomar2424-dev/DSA/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/dheerjtomar2424-dev/DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3364-minimum-positive-sum-subarray](https://github.com/dheerjtomar2424-dev/DSA/tree/master/3364-minimum-positive-sum-subarray) |
